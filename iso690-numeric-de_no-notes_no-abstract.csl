@@ -24,7 +24,8 @@
       <term name="composer" form="short">Komp.</term>
       <term name="composer" form="long">Komponist</term>
       <term name="accessed">Zugriff&#160;am:</term>
-      <term name="from">Verf&uuml;gbar&#160;unter</term>
+      <term name="retrieved">Verfuegbar</term>
+      <term name="from">unter</term>
     </terms>
   </locale>
   <macro name="author">
