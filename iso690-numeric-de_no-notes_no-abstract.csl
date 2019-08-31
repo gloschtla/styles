@@ -21,8 +21,6 @@
       <term name="in">in</term>
       <term name="collection-editor" form="short">Hrsg.</term>
       <term name="collection-editor" form="long">Herausgeber</term>
-      <term name="composer" form="short">Komp.</term>
-      <term name="composer" form="long">Komponist</term>
       <term name="accessed">Zugriff&#160;am:</term>
       <term name="retrieved">Verfuegbar</term>
       <term name="from">unter</term>
@@ -287,7 +285,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout prefix="(" suffix=")" delimiter=", ">
+    <layout prefix="[" suffix="]" delimiter=", ">
       <group delimiter=", ">
         <text variable="citation-number"/>
         <group>
